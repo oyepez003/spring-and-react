@@ -5,10 +5,10 @@ Spring App (Server):
 ----------------------------
 La aplicación está desarrollada con SpringBoot, SpringData (In-Memory para no depender de una Base de Datos), Spring Restful.
 
-####Requerimientos
+#### Requerimientos
 Java 8, Maven instalado y configurado en las variables de entorno del sistema (JAVA_HOME y MVN_HOME path).
 
-####Pasos para iniciar el servicio.
+#### Pasos para iniciar el servicio.
 Ejecutar:
 
 	1. cd /app-services
@@ -21,10 +21,10 @@ React App (Client):
 --------------------------
 La aplicación está desarrollada con (react-bootstrap, material-ui). En la carpeta "app-client\build" se deja el código generado, por lo que puede subirlo directamente a un servidor web como Apache (Lamp, Xampp, Wampp).
 
-####Requerimientos
+#### Requerimientos
   NodeJS y NPM instalado y configurado en las variables de entorno del sistema (path).
 
-Pasos para iniciar el servicio con Node.
+#### Pasos para iniciar el servicio con Node.
 Ejecutar:
 
 	1. cd /app-client
