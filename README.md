@@ -27,9 +27,9 @@ La aplicación está desarrollada con (react-bootstrap, material-ui). En la carp
 Pasos para iniciar el servicio con Node.
 Ejecutar:
 
-1. cd /app-client
-2. npm install
-3. npm start
+	1. cd /app-client
+	2. npm install
+	3. npm start
 
 Esto levantará el servidor en localhost:3000
 _____ 
