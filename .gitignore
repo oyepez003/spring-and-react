@@ -1,0 +1,4 @@
+
+/RemoteSystemsTempFiles
+*.log
+/app-services/target
